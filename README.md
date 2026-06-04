@@ -2,10 +2,10 @@
 예상치 못한 곳에 위치한 장애물을 피해 결승점에 도달하는 게임  
 
 #### 프로젝트 기간
-- 2024.(04.21 ~ 04.19) (1개월) / 1인
+- 2024.(03.21 ~ 04.19) (1개월) / 1인
  
 #### 기술 스택
-- C++, UE5 (Blueprint)
+- C++, UE5 (Blueprint, Enhanced Input, Blend Space, Level Sequence, Material Instance)
 ---
 ---
 
